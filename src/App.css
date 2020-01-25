@@ -1,0 +1,5 @@
+@import-normalize; /* bring in normalize.css styles */
+
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
